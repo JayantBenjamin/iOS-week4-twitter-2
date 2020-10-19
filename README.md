@@ -8,9 +8,9 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User can compose a tweet. (4pts)
-- [ ] User can favorite a tweet. (4pts)
-- [ ] User can retweet a tweet. (2pts)
+- [✅] User can compose a tweet. (4pts)
+- [✅] User can favorite a tweet. (4pts)
+- [✅] User can retweet a tweet. (2pts)
 
 The following **bonus** features are implemented:
 
@@ -22,4 +22,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/dxjas1QFw03um8yNsx/giphy.gif' title='Video Walkthrough Part1' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/ZHtkSB3LJRAgUkpov0/giphy.gif' title='Video Walkthrough Part2' width='' alt='Video Walkthrough' />
